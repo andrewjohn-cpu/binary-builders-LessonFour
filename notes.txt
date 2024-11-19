@@ -7,3 +7,7 @@ lists - unordered list <ul><li></ul>, ordered list <ol><li></ol>,
 html->css - first link the two files, <link rel="" href="" />
 css selectors - element, class, id
 add project to github: create repo, git initialize on local repo, link repo with local folder, 
+branches(departments)
+create a branch: git branch <feature_branch_name>
+confirm branch: git branch
+switching to a branch: git checkout <branch_name>
