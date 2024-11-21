@@ -7,3 +7,16 @@ lists - unordered list <ul><li></ul>, ordered list <ol><li></ol>,
 html->css - first link the two files, <link rel="" href="" />
 css selectors - element, class, id
 add project to github: create repo, git initialize on local repo, link repo with local folder, 
+
+divs - <div></div>
+classes - defined using a period (".<class_name>")
+and 
+ids - defined using a hashtag symbol ("#<id_name>")
+navigation to other pages within your application - use <a href="<page_path>"></a>
+display - 
+flex - responsiveness
+flex-box, 
+grid
+bootstrap - css framework
+how to use bootstrap - add link from bootstrap website, 
+repetition, span, 
